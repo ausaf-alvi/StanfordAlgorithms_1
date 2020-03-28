@@ -1,0 +1,2 @@
+module StanfordAlgorithms_1 {
+}
